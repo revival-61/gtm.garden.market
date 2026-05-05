@@ -7,7 +7,7 @@ last_change: "v1.0.0: Initial release — Agentforce DX setup flow"
 
 ## Task
 
-Welcome the user and orient to what we're doing:
+Welcome Elijah and orient to what we're doing:
 
 > Hey! This skill is going to walk you through connecting Claude to your Salesforce org using Agentforce DX — Salesforce's official tool for this.
 >
@@ -134,7 +134,7 @@ If it errors — troubleshoot: check the config file format (valid JSON?), confi
 >
 > *"Describe the Opportunity object in my sfdc-sandbox org and list all field names."*
 >
-> Claude should return a list of all your Opportunity fields — including any custom ones added by your sales tools.
+> Claude should return a list of all your Opportunity fields — including any custom ones from Frontspin or TitanX.
 
 Once they confirm it works:
 

@@ -127,6 +127,6 @@ After all objects are validated:
 > - Leads: [count]
 > - Opportunities: [count]
 >
-> Any sales engagement or enrichment tools connected to your SFDC org will pick up the new records automatically — no extra integration steps needed.
+> Frontspin and TitanX read from SFDC natively — they'll pick up the new records automatically.
 >
 > Ready to build your reports? Run `/sfdc-reports` and tell me what you want to track.
